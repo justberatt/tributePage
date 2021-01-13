@@ -1,0 +1,70 @@
+#container {
+  background: #EEEEEE;
+  border-radius: 10px;
+  margin: 0 auto;
+  font-family: Lato, "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  font-size: 15px;
+  color: #333333;
+}
+
+#title {
+  padding-top: 1em;
+  font-size: 40px;
+}
+
+#tribute-info {
+  padding: 2em;
+}
+
+li{
+  margin-top: 1.5em;
+}
+
+#list-container{
+  width: 40%;
+  margin: 0 auto;
+}
+
+#tribute-info,
+.read-more-link, 
+#heading, 
+#img-div {
+  text-align: center;
+}
+
+figure {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+
+#img-div {
+  background: white;
+  padding: 5px;
+  margin: 0 auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+#img-caption,
+.read-more-link {
+  padding: 15px;
+}
+
+.read-more-link {
+  font-size: 18px;
+}
+
+.about-borlaug{  
+  width: 40%;
+  margin: 0 auto;
+}
+
+.indian-pm {
+  margin-top: 20px;
+}
